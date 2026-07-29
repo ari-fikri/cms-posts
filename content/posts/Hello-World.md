@@ -1,5 +1,6 @@
 ---
 title: Hello World
+heroImage: /hello-world.png
 excerpt: Finally able to run the TinaCMS in my website.
 ---
 
