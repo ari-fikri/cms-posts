@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Project Management Documents Templates
 excerpt: |-
   As a project manager who manage a project, you will need to create a lot of documents through out the project phases.
