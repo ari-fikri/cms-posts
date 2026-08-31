@@ -1,4 +1,5 @@
 ---
+draft: false
 title: AWS Cloud Platform - Memory Palace
 heroImage: /AWS-City-Memory-Palace.png
 excerpt: I created this AWS Memory Palace in order to remember what AWS services are and what those are for.
