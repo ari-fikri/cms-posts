@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'The Art of Self-Correction : How Not to Repeat the Same Mistakes Over and Over Again'
-heroImage: /public/image_b1a645ee.jpg
+heroImage: /public/image_f35d4571.jpg
 excerpt: 'We have all been there: promising ourselves we will never repeat a specific blunder, only to find ourselves trapped in the exact same pattern a few months later. Breaking free from this loop requires more than just good intentions—it requires a systematic approach to behavior change.'
 seo:
   metaTitle: 'How to Stop Repeating Mistakes: 4-Step Guide '
