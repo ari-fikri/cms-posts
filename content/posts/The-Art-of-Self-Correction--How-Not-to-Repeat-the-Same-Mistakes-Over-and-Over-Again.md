@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'The Art of Self-Correction : How Not to Repeat the Same Mistakes Over and Over Again'
 heroImage: /public/image_b1a645ee.jpg
 excerpt: 'We have all been there: promising ourselves we will never repeat a specific blunder, only to find ourselves trapped in the exact same pattern a few months later. Breaking free from this loop requires more than just good intentions—it requires a systematic approach to behavior change.'
@@ -22,7 +22,7 @@ To stop the cycle, Sarah had to move through a four-step cycle of self-correctio
 
 ## 1. Admit Your Mistakes
 
-You are not perfect, you are nothing but merely human being and human make mistakes. Accept and live with it.  
+You are not perfect, you are nothing but merely human being and human make mistakes. Accept and live with it.
 
 The first and most difficult hurdle is radical honesty. You cannot fix a problem you refuse to acknowledge. Human psychology naturally pushes us to rationalize our failures, blame bad luck, or point fingers at external circumstances.
 
@@ -59,6 +59,5 @@ Treat your life like a software deployment: launch your plan, observe how it per
 ## Breaking the Loop
 
 Making a mistake once is a natural part of learning. Repeating it is simply a sign that your process is broken. By systematically admitting fault, analyzing the root causes from all angles, planning your changes, and continuously iterating, you transform your stumbles into stepping stones for genuine growth.
-
 
 Good luck to become a better you!!
